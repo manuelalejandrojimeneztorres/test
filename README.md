@@ -7,8 +7,6 @@
 
 SurveyHub is a robust backend application designed to support the SurveyHub system, a comprehensive platform for managing online surveys. This server provides secure, scalable, and efficient APIs for handling survey operations, user authentication, and data management.
 
----
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -27,13 +25,9 @@ SurveyHub is a robust backend application designed to support the SurveyHub syst
 9. [License](#license)
 10. [Acknowledgments](#acknowledgments)
 
----
-
 ## Introduction
 
 The **SurveyHub Backend Server** provides RESTful APIs for creating, managing, and analyzing surveys. Designed using modern frameworks and tools, this server ensures high performance, security, and maintainability, making it a reliable backbone for enterprise-level survey management systems.
-
----
 
 ## Features
 
@@ -44,8 +38,6 @@ The **SurveyHub Backend Server** provides RESTful APIs for creating, managing, a
 - **Scalable Architecture:** Designed for horizontal and vertical scalability.
 - **API Documentation:** Comprehensive OpenAPI 3.0.3 documentation for developers.
 
----
-
 ## Prerequisites
 
 Ensure the following tools are installed on your system:
@@ -55,8 +47,6 @@ Ensure the following tools are installed on your system:
 - [Git](https://git-scm.com/downloads)
 - **Optional:**
   - [Postman](https://www.postman.com/) or any REST API client for testing APIs.
-
----
 
 ## Installation
 
@@ -104,9 +94,8 @@ Run the development server:
 npm start
 ```
 
-The server will be available at `http://localhost:8080`.
-
----
+> [!NOTE]
+> The server will be available at `http://localhost:8080`.
 
 ## Usage
 
@@ -129,8 +118,6 @@ The server will be available at `http://localhost:8080`.
   ]
   ```
 
----
-
 ## Built With (Tools and Technologies)
 
 - **Backend Framework:** Node.js, Express.js
@@ -139,8 +126,6 @@ The server will be available at `http://localhost:8080`.
 - **Environment Management:** dotenv
 - **Logging:** Logback
 - **API Documentation:** OpenAPI 3.0.3 (Swagger)
-
----
 
 ## Dependencies
 
@@ -152,9 +137,8 @@ Below is a list of major dependencies used in the project:
 - **bcrypt**: For hashing user passwords.
 - **dotenv**: For managing environment variables.
 
-For the complete list, refer to `package.json`.
-
----
+> [!NOTE]
+> For the complete list, refer to `package.json`.
 
 ## Contributing
 
@@ -166,13 +150,9 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature-name`.
 5. Create a pull request.
 
----
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
@@ -180,7 +160,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Sequelize Contributors**: For simplifying database operations.
 - **OpenAPI Initiative**: For promoting standardized API documentation.
 - **GitHub Community**: For continuous support and inspiration.
-
----
 
 Enjoy developing with **SurveyHub Backend Server**! 🚀
