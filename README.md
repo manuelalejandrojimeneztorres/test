@@ -1,9 +1,12 @@
-# SurveyHub Backend Server
+# SurveyHub Back-End Server
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/SurveyHub/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/Node.js-%3E%3D16.x-brightgreen)](https://nodejs.org/)
 [![MySQL Version](https://img.shields.io/badge/MySQL-8.x-orange)](https://www.mysql.com/)
+[![NPM Version](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/)
+[![Express Version](https://img.shields.io/badge/Express-%3E%3D4.0-brightgreen)](https://expressjs.com/)
+[![Code Style: Prettier](https://img.shields.io/badge/code%20style-prettier-%23f7b93e)](https://prettier.io/)
 
 SurveyHub is a robust backend application designed to support the SurveyHub system, a comprehensive platform for managing online surveys. This server provides secure, scalable, and efficient APIs for handling survey operations, user authentication, and data management.
 
@@ -161,4 +164,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **OpenAPI Initiative**: For promoting standardized API documentation.
 - **GitHub Community**: For continuous support and inspiration.
 
-Enjoy developing with **SurveyHub Backend Server**! 🚀
+Enjoy developing with **SurveyHub Back-End Server**! 🚀
